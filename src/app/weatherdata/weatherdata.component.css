@@ -1,0 +1,42 @@
+.card-box {
+    /* margin-left: 500px; */
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+    width: 300px;
+    box-shadow: 1px 5px 10px #d1d1d1;
+    height: 200px
+}
+
+.upper-section {
+    /* margin-left: 500px; */
+    margin-top: 50px;
+     background-image: url('https://images.pexels.com/photos/159020/sunset-sky-afterglow-evening-sky-159020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    box-shadow: 1px 5px 20px #d3d3d3;
+    height: 300px;
+    color: white;
+
+    text-align: center;
+}
+
+.temperatureone {
+    margin-top: 30px;
+    
+    height: 200px
+}
+.inputfield{
+    /* margin-left: 550px; */
+    margin-top: 20px;
+    background-color: black;
+    color:red;
+    border-radius: 20%;
+}
+.button{
+    color:gold;
+    background-color:black ;
+    border-radius: 20%;
+}
